@@ -1,0 +1,31 @@
+button{
+    background-color: green;
+    color: white;
+    height:25px;
+}
+body{
+    text-align: center;
+    margin-top: 200px;
+    background-color: rgb(28, 165, 203)
+
+}
+.container{
+    width:350px;
+    height:350px;
+    border: 2px solid black;
+    margin-left: 40%;
+    background-color: white;
+    padding-top: 5%;
+}
+#urlInput{
+    height:30px;
+    width:175px;
+    border: 2px solid aqua;
+
+}
+#qrcode{
+    justify-content: center;
+    text-align: center;
+    padding-left:11
+    0px;
+}
